@@ -116,7 +116,9 @@ In this work, we implement some of the image classifications techniques to categ
   </tr>
 </table>
 
+# Report in PDF
 
+[A_12_Garbage_Classification_Using_Deep_Learning_Techniques.pdf](https://github.com/Rafat97/garbage-detection/files/7285636/A_12_Garbage_Classification_Using_Deep_Learning_Techniques.pdf)
 
 # Referances
 
