@@ -118,5 +118,26 @@ In this work, we implement some of the image classifications techniques to categ
 
 
 
+# Referances
+
+* Andrew  G.  Howard,  Menglong  Zhu,  Bo  Chen,  Dmitry  Kalenichenko,Weijun  Wang,  Tobias  Weyand,  Marco  Andreetto  and  Hartwig  Adam.MobileNets: Efficient Convolutional Neural Networks for Mobile VisionApplications, 2017;  arXiv:1704.04861.
+
+*  Mark  Sandler,  Andrew  Howard,  Menglong  Zhu,  Andrey  Zhmoginovand  Liang-Chieh  Chen.   MobileNetV2:  Inverted  Residuals  and  LinearBottlenecks,  2018,    The  IEEE  Conference  on  Computer  Vision  andPattern Recognition (CVPR), 2018, pp. 4510-4520;  arXiv:1801.04381.
+
+* Kaiming  He,  Xiangyu  Zhang,  Shaoqing  Ren  and  Jian  Sun.DeepResidual Learning for Image Recognition, 2015;  arXiv:1512.03385.
+
+* Gao  Huang,  Zhuang  Liu,  Laurens  van  der  Maaten  and  Kilian  Q.Weinberger.Densely   Connected   Convolutional   Networks,   2016;arXiv:1608.06993.
+
+* S. Meng and W. -T. Chu, ”A Study of Garbage Classification with Con-volutional Neural Networks,” 2020 Indo – Taiwan 2nd International Con-ference  on  Computing,  Analytics  and  Networks  (Indo-Taiwan  ICAN),2020, pp. 152-157,  10.1109/Indo-TaiwanICAN48429.2020.9181321.
+
+*  The Garbage Classification Dataset contains 6 classifications. kaggle linkhttps://www.kaggle.com/asdasdasasdas/garbage-classification
+
+*  Noble, William S, ”What is a support vector machine?”.journal - Naturebiotechnology,publisher - Nature Publishing Group  noble2006support
+
+*  Yang, Mindy and Thung, Gary ”Classification of trash for recyclabilitystatus”. CS229 Project Report  noble2006support
+
+*  S. Kaza, L. Yao, P. Bhada-Tata, and F. Van Woerden, What a Waste 2.0:A  Global  Snapshot  of  Solid  Waste  Management  to  2050.  The  WorldBank, 2018
+
+
 
 <h1 align="center">--- Thank You ---</h1>
