@@ -10,7 +10,7 @@ recycling among the tasks required for recycling. In this research,
 we try to recognize single waste objects in photographs and
 classify them into recycling categories.
 
-# Index Terms—
+# Index Terms
 
 Garbage Classification, Recycling, Deep Learning, Convolutional Neural Networks, ResNet, MobileNetV2,
 DenseNet
